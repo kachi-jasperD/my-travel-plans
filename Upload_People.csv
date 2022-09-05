@@ -9,6 +9,3 @@ id,created_at,email,unsubscribed,first_name,last_name,favorite_movie,favorite_ge
 900,1648128081,gstaresmeare7@example.com,FALSE,Geri,Staresmeare,Room for One More,Comedy
 330,1644085495,sdade8@example.com,FALSE,Salvador,Dade,"Work of Director Michel Gondry, The",Comedy
 877,1653757984,aplumbe9@example.com,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
-,,,,,,,
-,Learn more about unix timestamps,,,,,,
-,http://www.epochconverter.com/,,,,,,
