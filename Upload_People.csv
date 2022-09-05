@@ -1,0 +1,14 @@
+id,created_at,email,unsubscribed,first_name,last_name,favorite_movie,favorite_genre
+637,1650963214,briepel0@example.com,FALSE,Beatriz,Riepel,Daria: Is It Fall Yet?,Animation
+104,1631087367,gbugg1@example.com,FALSE,Goldina,Bugg,Rocky II,Action
+338,1632865919,ggoatcher2@example.com,FALSE,Gonzales,Goatcher,The Prince,Action
+753,1641620258,kbyard3@example.com,FALSE,Kinnie,Byard,Escape to Witch Mountain,Adventure
+466,1656741616,cesser4@example.com,FALSE,Calida,Esser,Dr. Jack,Comedy
+388,1647422645,chearons5@example.com,FALSE,Clemence,Hearons,Catfish in Black Bean Sauce,Comedy
+776,1644435469,linchley6@example.com,TRUE,Lorilyn,Inchley,David and Bathsheba,Drama
+900,1648128081,gstaresmeare7@example.com,FALSE,Geri,Staresmeare,Room for One More,Comedy
+330,1644085495,sdade8@example.com,FALSE,Salvador,Dade,"Work of Director Michel Gondry, The",Comedy
+877,1653757984,aplumbe9@example.com,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
+,,,,,,,
+,Learn more about unix timestamps,,,,,,
+,http://www.epochconverter.com/,,,,,,
