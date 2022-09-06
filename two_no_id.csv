@@ -1,0 +1,11 @@
+created_at,email,unsubscribed,first_name,last_name,favorite_movie,favorite_genre
+1650963214,briepel0@example.com,FALSE,Beatriz,Riepel,Daria: Is It Fall Yet?,Animation
+1631087367,gbugg1@example.com,FALSE,Goldina,Bugg,Rocky II,Action
+1632865919,ggoatcher2@example.com,FALSE,Gonzales,Goatcher,The Prince,Action
+1641620258,kbyard3@example.com,FALSE,Kinnie,Byard,Escape to Witch Mountain,Adventure
+1656741616,cesser4@example.com,FALSE,Calida,Esser,Dr. Jack,Comedy
+1647422645,chearons5@example.com,FALSE,Clemence,Hearons,Catfish in Black Bean Sauce,Comedy
+1644435469,linchley6@example.com,TRUE,Lorilyn,Inchley,David and Bathsheba,Drama
+1648128081,gstaresmeare7@example.com,FALSE,Geri,Staresmeare,Room for One More,Comedy
+1644085495,sdade8@example.com,FALSE,Salvador,Dade,"Work of Director Michel Gondry, The",Comedy
+1653757984,aplumbe9@example.com,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
