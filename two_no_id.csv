@@ -9,3 +9,7 @@ created_at,email,unsubscribed,first_name,last_name,favorite_movie,favorite_genre
 1648128081,gstaresmeare7@example.com,FALSE,Geri,Staresmeare,Room for One More,Comedy
 1644085495,sdade8@example.com,FALSE,Salvador,Dade,"Work of Director Michel Gondry, The",Comedy
 1653757984,aplumbe9@example.com,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
+1653757981,1234,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
+1653757994,kim,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
+1651757984,@#$%^,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
+1654757984,aplumbe93456xample.com,TRUE,Adeline,Plumbe,Something's Gotta Give,Comedy
